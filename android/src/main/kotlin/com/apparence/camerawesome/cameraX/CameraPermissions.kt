@@ -103,6 +103,6 @@ class CameraPermissions : EventChannel.StreamHandler, RequestPermissionsResultLi
 //                Manifest.permission.RECORD_AUDIO,
 //                Manifest.permission.ACCESS_FINE_LOCATION,
             )
-        private const val PERMISSIONS_MULTIPLE_REQUEST = 5
+        private const val PERMISSIONS_MULTIPLE_REQUEST = 2
     }
 }
